@@ -144,7 +144,7 @@ ul {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 300px;
+  width: fit-content;
 }
 .showcase h1 {
   font-size: 2.5rem;
